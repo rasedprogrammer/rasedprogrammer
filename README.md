@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Rased Mollar</h1>
+<h1 align="center">Hi 👋, I'm Md Rased Molla</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh!</h3>
 
 - 💬 Ask me about **React, Node and JavaScript.**
