@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Rased Molla</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh!</h3>
+<h3 align="center">I am energetic and passionate man who love to build software that help people their daily life style.
+I am a Full-Stack developer. I have strong skill Font-End and Back-End side, I also have good knowledge about database design systems. From Dhaka, Bangladesh!</h3>
 
 - 💬 Ask me about **React, Node and JavaScript.**
 
